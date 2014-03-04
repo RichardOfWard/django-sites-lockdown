@@ -2,7 +2,7 @@ from setuptools import setup
 import sites_lockdown
 
 setup(
-    name='Django Sites Lockdown',
+    name='Django-Sites-Lockdown',
     version=sites_lockdown.__version__,
     packages=['sites_lockdown'],
     license='MIT License',

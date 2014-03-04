@@ -1,5 +1,5 @@
 =====================
-Django Sites Lockdown
+Django-Sites-Lockdown
 =====================
 
 Sometimes with Django you need to include the sites framework because an app
